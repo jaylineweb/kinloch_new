@@ -1,0 +1,131 @@
+/* ############################### content ############################ */
+#contentWrap.brand3  {width: 100%;  height: 1985px; margin:0 auto;   }
+#content.brand3 {width: 1800px; height: 1960px; margin:0 auto; background-image: url(../img/brand_slide_obj03.jpg); background-repeat:no-repeat; background-size:100% 100%; overflow: hidden; position: relative; transition: all .3s ease-in-out .4s;}
+#content.brand3 h3 {font-size: 30px;font-weight: 100;width: 200px;height: 40px;position: absolute;left: 50%;top: 0em;color:#fff;transition:all .1s ease-in;transform: translateX(-50%);}
+#content.brand3:hover {background-position: 260px center; transform:translatex(50px);}
+#content.brand3:hover #slide_nav ul {left: 57em;}
+#content.brand3:hover  h3 {left: 42em;}
+
+/* ############################### content + slide_nav ############################ */
+#slide_nav {width: 670px; height:23px;}
+#slide_nav ul {width:100%; height:23px;position: absolute;  left:580px; top:110px; transition:all .2s ease-in .4s;}
+#slide_nav li {display: inline-block;text-align: center;font-size: 16px;}
+#slide_nav li a {padding: 0 12px; color: #fff;}
+#slide_nav li span {color: #fff;}
+
+
+/* ############################### content + title_logo ############################ */
+#content.brand3 .title_logo {position: absolute; left:580px; top:465px;transition: all .3s ease-in-out .4s;}
+
+
+/* 마우스를 올렸을때 로고가 특정 위치에 배치되면서 desc부분들이 나타나게 만들기 */
+
+.title-logo{transform:translate(-529px,90px) scale(1.1,1.1); z-index:4; background-color: #aaa;/* translate(0,-50px); */}
+#content.brand3:hover .title_logo{transform:translate(-529px,90px) scale(1.1,1.1); z-index:4; background-color: #aaa;}
+
+#content.brand3:hover .desc1 {transform:translate(-537px, 200px);transition: all .3s ease-in-out ; text-align: center; }
+#content.brand3:hover .desc1 .title {transform:scale(1.2,1.2);}
+#content.brand3:hover .desc1 .cont {transform:scale(1.2,1.2);opacity:1;}
+
+/* ############################### content + desc1 ############################ */
+#content.brand3 .desc1 {position: absolute;left:732px;top:590px;transition: all .3s ease-in-out .3s;font-size: 15px;z-index:3;}
+#content.brand3 .desc1 .title, #content.brand3 .desc2 .title {font-size: 44px; padding:10px 0 20px;display: block; color: #efd8c3;text-align:center;}
+#content.brand3 .desc1 .cont, #content.brand3 .desc2 .cont {font-size: 16px; display: block; color: #666;opacity:0;}
+
+
+
+/* ############################### content + desc2 ############################ */
+#content.brand3 .desc2 {position: absolute; left: 810px; top:710px;transition: all .3s ease-in-out .3s;z-index:2;}
+#content.brand3:hover .desc2 {transform:translate(-540px, 320px); }
+#content.brand3:hover .desc2 .title {transform:scale(1.1,1.1);}
+#content.brand3:hover .desc2 .cont {transform:scale(1.2,1.2);opacity:1;}
+
+/* ############################### content + w ############################ */
+#content.brand3 .white {width: 800px; height: 1982px; background-color: #fff; position: absolute; left:-1250px; top:0;transition: all .3s ease-in-out .2s;}
+
+#content.brand3:hover .white {left:0;top:0; z-index:0;}
+@media all and (min-width:500px) and (max-width:767px) {
+    #contentWrap.brand3  {height: auto;}
+    #content.brand3 {height: 61vh;}
+    #content.brand3 {width:100%;max-width:1160px;background-image: url(../img/brand_slide_obj03.jpg) !important;}
+    #content.brand3:hover {	background-position: 150px center; transform: translatex(10px);	}
+    #content.brand3:hover h3 {left: 17em;font-size: 1.08em;top: 1em;}
+    #content.brand3 #slide_nav ul {width: 70%;left: 50%;top: 6.9em;transform: translateX(-50%);}
+    #content.brand3:hover .title_logo {transform: translate(-13em,2em) scale(1.1,1.1); width: 11em; height: 2.5em;}
+    #content.brand3 h3 {left:50%;transform: translateX(-50%);}
+    #content.brand3 .title_logo {	width: 73%; left: 50%; top: 30%; margin-left: 0; transform: translateX(-50%);}
+    #content.brand3 .title_logo img{width: 100% !important;}
+    #content.brand3:hover .white {left:0px;width: 16em;height: 112vh;}
+    #content.brand3:hover .desc1 {transform: translate(-590px, 200px);}
+    #content.brand3:hover .desc2 {transform: translate(-12em, 2em);}
+    #content.brand3:hover #slide_nav ul {left: 37em;top: 14em;width: 42%;font-size: 0.1em;}
+    #content.brand3:hover #slide_nav li {display: inline-block;}
+    #content.brand3 .desc1 {left: 50%;top: 44%;transform: translateX(-50%);margin-left: 0;}
+    #content.brand3 .desc2 {left:50%;transform: translateX(-50%);margin-left: 0;top: 57%;}
+    #content.brand3:hover .desc1 {transform: translate(-23em, -1em);font-size: 10px;width: 22em;}
+    #content.brand3:hover .desc1 .title {font-size: 21px;}
+    #content.brand3:hover .desc1 .cont {display: block;width: 80%;margin: 0 auto;font-size: 11px;}
+}
+@media all and (min-width:768px) and (max-width:1024px) {
+    #contentWrap.brand3  {height: auto;}
+    #content.brand3 {width:100%; max-width:1160px; }
+    #content.brand3:hover {background-position: 150px center;transform: translatex(10px);}
+    #content.brand3:hover h3 {left: 44em;font-size: 1.08em;}
+    #content.brand3 #slide_nav ul {width: 70%;left: 50%;top:130px;transform: translateX(-50%);}
+    #content.brand3:hover .title_logo {transform: translate(-25em,-15em) scale(1.1,1.1);}
+    #content.brand3 h3 {left:50%;transform: translateX(-50%);}
+    #content.brand3 .title_logo {
+        width: 360px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #content.brand3 .title_logo img{width:100%;}
+    #content.brand3:hover .white {left:0px;width: 30em;height: 112vh;}
+    #content.brand3:hover .desc1 {transform: translate(-590px, 200px);}
+    #content.brand3:hover .desc2 {transform: translate(-19em, -6em);}
+    #content.brand3:hover #slide_nav ul {left: 72em;width: 50%;font-size: 0.1em;}
+    #content.brand3:hover #slide_nav li {display: inline-block;}
+    #content.brand3 .desc1 {left: 50%;transform: translateX(-50%);}
+    #content.brand3 .desc2 {left:50%;transform: translateX(-50%);}
+    #content.brand3:hover .desc1 {transform: translate(-25em, -14em);}
+}
+@media all and (max-width:1024px){
+    #content.brand3:hover .title_logo {transform: translate(-28em,-15em) scale(1.1,1.1);}
+    #content.brand3:hover .white {height: 249vh;}
+}
+@media all and (min-width:1025px) and (max-width:1280px) {
+
+    #contentWrap.brand3  {height:1960px;}
+    #content.brand3 {width:100%; max-width:1160px; }
+    #content.brand3:hover {background-position: 150px center;transform: translatex(10px);}
+    #content.brand3:hover h3 {left: 870px;}
+    #content.brand3 #slide_nav ul {width: 100%;left: 50%;top:130px;margin-left: -320px;}
+    #content.brand3:hover .title_logo {transform: translate(-280px,90px) scale(1.1,1.1);}
+    #content.brand3 h3 {left:50%; margin-left:-100px;}
+    #content.brand3 .title_logo {width: 360px;left: 50%;margin-left: -180px;}
+    #content.brand3 .title_logo img{width:100%;}
+    #content.brand3:hover .white {left:0px; width:600px;}
+    #content.brand3:hover .desc1 {transform: translate(-590px, 200px);}
+    #content.brand3:hover .desc2 {transform: translate(-260px, 320px);}
+    #content.brand3:hover #slide_nav ul {left: 940px; width: 480px; }
+    #content.brand3:hover #slide_nav li {display:block; float:left;}
+    #content.brand3 .desc1 {left: 50%;transfom:translateX(-50%);}
+    #content.brand3 .desc2 {left:50%; transfom:translateX(-50%);}
+    #content.brand3:hover .desc1 {transform: translate(-260px, 200px);}
+}
+@media all and (max-width:1280px){
+    #content.brand3:hover .desc1 {transform: translate(-381px, 200px);}
+}
+@media all and (min-width:1281px) and (max-width:1480px) {
+    #content.brand3:hover .title_logo {transform: translate(-23em, 9em) !important;}
+    .desc1 {left: 50% !important;top: 42em !important;font-size: 15px;transform: translateX(-15%);}
+    #content.brand3:hover .desc1 {transform: translate(-27em, 12em);}
+    #content.brand3:hover .desc2 {transform: translate(-22em, 22em);}
+    #content.brand3:hover h3 {    left: 37em;}
+    #content.brand3:hover #slide_nav ul {left: 59em;width: 42%;}
+    #content.brand3:hover #slide_nav li {    font-size: 13px}
+    #content.brand3 #slide_nav ul {width: 100%;height: 23px;position: absolute;left: 50%;top: 110px;transition: all .2s ease-in .4s;transform: translateX(-25%);}
+}
+@media all and (min-width:1481px) and (max-width:1680px) {
+    #content.brand3:hover {background-position: 19em 0; transform: translatex(50px);}
+}

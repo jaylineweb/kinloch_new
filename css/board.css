@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+#boardWrap{width:940px;margin: 100px auto;}
+#boardWrap h3{text-align:center;font-size:25px;color: #000;width: 100%;text-transform:uppercase;/* padding-bottom:50px; */}
+#boardLink{ width:100%; text-align:right; padding:10px 0; display:flex; justify-content:flex-end;}
+#boardLink a{  padding:0 8px; color:#000; text-shadow:1px 1px 3px rgba(0,0,0,0.2); display:inline-block;}
+#boardLink a:hover, #boardLink a:focus{background-color: #1a3544;color:#fff;}
+
+#freeboard{ width:100%; line-height:22px; font-size:14px;}
+#freeboard caption{ display:none; }
+#freeboard th, td{padding:10px; border-bottom:1px solid #f1f1f1;}
+#freeboard th{background-color: #2b566d;color: #ffffff;border-right:1px solid #fefefe;}
+
+#freeboard td{ color:#333; padding-left:30px;}
+#freeboard .writeClk td{border:none; }
+
+.writeClk{ text-align:right; }
+.writeClk a{border:1px solid #ccc; padding:5px 10px; color:#333;}
+.writeClk a:hover, .writeClk a:focus{font-weight:700;color:#fff;background-color: #2b566d;text-decoration:none;}
+
+@media all and (max-width:1000px){
+    #boardWrap {width:100%;}
+}
+
+
+#writeWrap{width: 80%;margin: 175px auto 0;background-color:#fff;box-shadow:3px 3px 3px rgba(0,0,0,0.3);padding:20px 40px;border: 1px solid #e2e2e2;overflow: hidden;}
+
+#writeWrap h2{text-align:center;width:100%;height: auto;padding: 31px;position: static;font-size: inherit;box-sizing: border-box;}
+#writeWrap form{font-size:13px;}
+#writeWrap form p{ padding:10px 0; margin-bottom:20px;}
+#writeWrap form label{display:block;float:left;width:80px;text-align:center;line-height: 3.4;}
+#writeWrap form input:not(.button){width: 93%;height: auto;text-indent:10px;}
+form textarea#content2{width: 93%;height:200px;text-indent:10px;border: 1px solid #ccc;}
+form label[for="content"]{line-height:200px;}
+
+#buttonArea{background-color:#fff; text-align:center;}
+#buttonArea input{padding:5px 20px; background-color:#fff; border:1px solid #aaa;}
+#buttonArea input:hover{background-color:#f00; color:#fff; cursor:pointer;}
+
+@media all and (max-width:1180px) {
+    #writeWrap form {width:100%;height: auto;}
+    #writeWrap form label{width:8%;}
+    #writeWrap form input:not(.button) {width:90% !important; margin-left:2%;}
+}

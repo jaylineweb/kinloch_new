@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/* ############################### content ############################ */
+#contentWrap  {width: 100%;  height: 1320px; margin:0 auto; background-color:#232853;  overflow:hidden;   }
+#content {width: 1800px; height: 1320px; margin:0 auto;position: relative;  }
+h3 { width: 160px; height: 48px;text-align: center; line-height: 48px; position: absolute; left:800px; top:40px; color:#fff;}
+/* ############################### content + slide_nav ############################ */
+#slide_nav {width: 670px; height:23px;}
+#slide_nav:after {content:""; display:block; clear:both;}
+#slide_nav ul {width:100%; height:23px;position: absolute;  left:30%; top:110px; transition:all .1s ease-in;z-index:10;}
+#slide_nav li {display: inline; text-align: center; font-size: 16px;}
+#slide_nav li a {padding: 0 12px; color: #fff;}
+#slide_nav li span {color: #fff;}
+
+
+/* ############################### content + capitC + ontigue############################ */
+/* .capitC {font-size: 500px; color: #fff;font-family: Anton Regular,arial,sans-serif;
+        position: absolute; left:565px; top:144px; transition: all .3s ease-in-out .4s;
+} */
+/* #content:hover */ .capitC{position:absolute;left:268px; top:288px;transform:rotatez( -38deg); font-size: 800px; font-weight:600;color:#fff;font-family: Anton Regular,arial,sans-serif; text-shadow:7px 12px 13px rgba(0,0,0,0.8);}
+/* #content:hover  */.ontigue {font-size: 90px; position: absolute; left:660px; top:360px;transform:rotatez(-39deg);color:#fff;font-family: Anton-Regular,arial,sans-serif;transition: all .3s ease-in-out .4s;}
+/* .ontigue {font-size: 90px; position: absolute; left:915px; top:354px;color:#fff;font-family: Anton Regular,arial,sans-serif; } */
+/* #content:hover .concept {transform: rotatez(-38deg);} */
+.concept {text-transform:uppercase; font-size: 45px; position: absolute; left:740px; top:504px;font-family: Noto Sans, arial, sans-serif;color:#efd8c3;transform: rotatez(-40deg);transition: all .3s ease-in-out;}
+.desc1 {display:block; width:225px; height: 110px;font-size:12px; font-family:"나눔고딕",Nanum-gothic,sans-serif;line-height:20px; color:#fff; position:absolute; left:798px; top:535px;transform:rotatez(-41deg);}
+.desc2 {font-size:12px; width:225px; height: 110px;font-family:"나눔고딕",Nanum-gothic,sans-serif; color:#fff;position:absolute; left:887px; top:636px;transform:rotatez(-41deg);}
+.target {text-transform:uppercase;font-size: 45px;transform: rotatez(-41deg); position: absolute; left:838px; top:618px;color: #efd8c3;}
+.circle1 {width: 900px; height: 900px;background-color:rgba(85,103,175,0.6); border-radius:900px; position: absolute; left:-151px; top:-367px;}
+.circle2 {width: 1000px; height: 1000px;background-color:rgba(85,103,175,0.2); border-radius:1000px; position: absolute; left:400px; top:732px;}
