@@ -275,159 +275,159 @@
 #content > h3.title{font-size:30px;font-family: 'Roboto', 'Noto Sans KR';text-transform: uppercase;}
 
 /* suitProduct */
-.suit .no0 {background-image:url("http://jayremind.co.kr/kinloch/img/li1.jpg");letter-spacing:-1px;background-size: 79% !important;}
-.suit .no1 {background-image:url("http://jayremind.co.kr/kinloch/img/li2.jpg");background-size: 79% !important; }
-.suit .no2 {background-image:url("http://jayremind.co.kr/kinloch/img/li3.jpg"); background-size: 79% !important;}
-.suit .no3 {background-image:url("http://jayremind.co.kr/kinloch/img/li4.jpg");background-size: 79% !important; }
-.suit .no4 {background-image:url("http://jayremind.co.kr/kinloch/img/li5.jpg"); letter-spacing:-1px;background-size: 79% !important;}
-.suit .no5 {background-image:url("http://jayremind.co.kr/kinloch/img/li6.jpg"); background-size: 79% !important;}
-.suit .no6 {background-image:url("http://jayremind.co.kr/kinloch/img/li7.jpg"); background-size: 79% !important;}
-.suit .no7 {background-image:url("http://jayremind.co.kr/kinloch/img/li8.jpg"); background-size: 79% !important;}
-.suit .no8 {background-image:url("http://jayremind.co.kr/kinloch/img/li9.jpg"); letter-spacing:-1px;background-size: 79% !important;}
-.suit .no9 {background-image:url("http://jayremind.co.kr/kinloch/img/li10.jpg");background-size: 79% !important; }
-.suit .no10 {background-image:url("http://jayremind.co.kr/kinloch/img/li11.jpg");background-size: 79% !important;}
-.suit .no11 {background-image:url("http://jayremind.co.kr/kinloch/img/li12.jpg");background-size: 79% !important;}
-.suit .no12 {background-image:url("http://jayremind.co.kr/kinloch/img/li13.jpg"); letter-spacing:-1px;background-size: 79% !important;}
-.suit .no13 {background-image:url("http://jayremind.co.kr/kinloch/img/li14.jpg");background-size: 79% !important;}
-.suit .no14 {background-image:url("http://jayremind.co.kr/kinloch/img/li15.jpg");background-size: 79% !important;}
-.suit .no15 {background-image:url("http://jayremind.co.kr/kinloch/img/li16.jpg");background-size: 79% !important;}
+.suit .no0 {background-image:url("../kinloch/img/li1.jpg");letter-spacing:-1px;background-size: 79% !important;}
+.suit .no1 {background-image:url("../kinloch/img/li2.jpg");background-size: 79% !important; }
+.suit .no2 {background-image:url("../kinloch/img/li3.jpg"); background-size: 79% !important;}
+.suit .no3 {background-image:url("../kinloch/img/li4.jpg");background-size: 79% !important; }
+.suit .no4 {background-image:url("../kinloch/img/li5.jpg"); letter-spacing:-1px;background-size: 79% !important;}
+.suit .no5 {background-image:url("../kinloch/img/li6.jpg"); background-size: 79% !important;}
+.suit .no6 {background-image:url("../kinloch/img/li7.jpg"); background-size: 79% !important;}
+.suit .no7 {background-image:url("../kinloch/img/li8.jpg"); background-size: 79% !important;}
+.suit .no8 {background-image:url("../kinloch/img/li9.jpg"); letter-spacing:-1px;background-size: 79% !important;}
+.suit .no9 {background-image:url("../kinloch/img/li10.jpg");background-size: 79% !important; }
+.suit .no10 {background-image:url("../kinloch/img/li11.jpg");background-size: 79% !important;}
+.suit .no11 {background-image:url("../kinloch/img/li12.jpg");background-size: 79% !important;}
+.suit .no12 {background-image:url("../kinloch/img/li13.jpg"); letter-spacing:-1px;background-size: 79% !important;}
+.suit .no13 {background-image:url("../kinloch/img/li14.jpg");background-size: 79% !important;}
+.suit .no14 {background-image:url("../kinloch/img/li15.jpg");background-size: 79% !important;}
+.suit .no15 {background-image:url("../kinloch/img/li16.jpg");background-size: 79% !important;}
 
 /* jumperProduct */
-.jumper .no0 {background-image:url("http://jayremind.co.kr/kinloch/img/coat1.jpg");  letter-spacing:-1px; }
-.jumper .no1 {background-image:url("http://jayremind.co.kr/kinloch/img/coat2.jpg"); }
-.jumper .no2 {background-image:url("http://jayremind.co.kr/kinloch/img/coat3.jpg"); }
-.jumper .no3 {background-image:url("http://jayremind.co.kr/kinloch/img/coat4.jpg"); }
-.jumper .no4 {background-image:url("http://jayremind.co.kr/kinloch/img/coat5.jpg"); letter-spacing:-1px;}
-.jumper .no5 {background-image:url("http://jayremind.co.kr/kinloch/img/jumper1.jpg"); }
-.jumper .no6 {background-image:url("http://jayremind.co.kr/kinloch/img/jumper2.jpg"); }
-.jumper .no7 {background-image:url("http://jayremind.co.kr/kinloch/img/coat6.jpg"); }
-.jumper .no8 {background-image:url("http://jayremind.co.kr/kinloch/img/coat7.jpg"); letter-spacing:-1px;}
-.jumper .no9 {background-image:url("http://jayremind.co.kr/kinloch/img/coat8.jpg"); }
-.jumper .no10 {background-image:url("http://jayremind.co.kr/kinloch/img/coat9.jpg");}
-.jumper .no11 {background-image:url("http://jayremind.co.kr/kinloch/img/coat10.jpg");}
-.jumper .no12 {background-image:url("http://jayremind.co.kr/kinloch/img/coat11.jpg"); letter-spacing:-1px;}
-.jumper .no13 {background-image:url("http://jayremind.co.kr/kinloch/img/coat12.jpg");}
-.jumper .no14 {background-image:url("http://jayremind.co.kr/kinloch/img/coat13.jpg");}
-.jumper .no15 {background-image:url("http://jayremind.co.kr/kinloch/img/coat14.jpg");}
+.jumper .no0 {background-image:url("../kinloch/img/coat1.jpg");  letter-spacing:-1px; }
+.jumper .no1 {background-image:url("../kinloch/img/coat2.jpg"); }
+.jumper .no2 {background-image:url("../kinloch/img/coat3.jpg"); }
+.jumper .no3 {background-image:url("../kinloch/img/coat4.jpg"); }
+.jumper .no4 {background-image:url("../kinloch/img/coat5.jpg"); letter-spacing:-1px;}
+.jumper .no5 {background-image:url("../kinloch/img/jumper1.jpg"); }
+.jumper .no6 {background-image:url("../kinloch/img/jumper2.jpg"); }
+.jumper .no7 {background-image:url("../kinloch/img/coat6.jpg"); }
+.jumper .no8 {background-image:url("../kinloch/img/coat7.jpg"); letter-spacing:-1px;}
+.jumper .no9 {background-image:url("../kinloch/img/coat8.jpg"); }
+.jumper .no10 {background-image:url("../kinloch/img/coat9.jpg");}
+.jumper .no11 {background-image:url("../kinloch/img/coat10.jpg");}
+.jumper .no12 {background-image:url("../kinloch/img/coat11.jpg"); letter-spacing:-1px;}
+.jumper .no13 {background-image:url("../kinloch/img/coat12.jpg");}
+.jumper .no14 {background-image:url("../kinloch/img/coat13.jpg");}
+.jumper .no15 {background-image:url("../kinloch/img/coat14.jpg");}
 
 /* jacketProduct */
-.jacket .no0 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket1.jpg");  letter-spacing:-1px; }
-.jacket .no1 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket2.jpg"); }
-.jacket .no2 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket3.jpg"); }
-.jacket .no3 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket4.jpg"); }
-.jacket .no4 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket5.jpg"); letter-spacing:-1px;}
-.jacket .no5 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket6.jpg"); }
-.jacket .no6 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket7.jpg"); }
-.jacket .no7 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket8.jpg"); }
-.jacket .no8 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket9.jpg"); letter-spacing:-1px;}
-.jacket .no9 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket10.jpg"); }
-.jacket .no10 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket11.jpg");}
-.jacket .no11 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket12.jpg");}
-.jacket .no12 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket13.jpg"); letter-spacing:-1px;}
-.jacket .no13 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket14.jpg");}
-.jacket .no14 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket15.jpg");}
-.jacket .no15 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket16.jpg");}
-.jacket .no16 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket17.jpg");}
-.jacket .no17 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket18.jpg");}
-.jacket .no18 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket19.jpg");}
-.jacket .no19 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket20.jpg");}
-.jacket .no20 {background-image:url("http://jayremind.co.kr/kinloch/img/jacket21.jpg");}
+.jacket .no0 {background-image:url("../kinloch/img/jacket1.jpg");  letter-spacing:-1px; }
+.jacket .no1 {background-image:url("../kinloch/img/jacket2.jpg"); }
+.jacket .no2 {background-image:url("../kinloch/img/jacket3.jpg"); }
+.jacket .no3 {background-image:url("../kinloch/img/jacket4.jpg"); }
+.jacket .no4 {background-image:url("../kinloch/img/jacket5.jpg"); letter-spacing:-1px;}
+.jacket .no5 {background-image:url("../kinloch/img/jacket6.jpg"); }
+.jacket .no6 {background-image:url("../kinloch/img/jacket7.jpg"); }
+.jacket .no7 {background-image:url("../kinloch/img/jacket8.jpg"); }
+.jacket .no8 {background-image:url("../kinloch/img/jacket9.jpg"); letter-spacing:-1px;}
+.jacket .no9 {background-image:url("../kinloch/img/jacket10.jpg"); }
+.jacket .no10 {background-image:url("../kinloch/img/jacket11.jpg");}
+.jacket .no11 {background-image:url("../kinloch/img/jacket12.jpg");}
+.jacket .no12 {background-image:url("../kinloch/img/jacket13.jpg"); letter-spacing:-1px;}
+.jacket .no13 {background-image:url("../kinloch/img/jacket14.jpg");}
+.jacket .no14 {background-image:url("../kinloch/img/jacket15.jpg");}
+.jacket .no15 {background-image:url("../kinloch/img/jacket16.jpg");}
+.jacket .no16 {background-image:url("../kinloch/img/jacket17.jpg");}
+.jacket .no17 {background-image:url("../kinloch/img/jacket18.jpg");}
+.jacket .no18 {background-image:url("../kinloch/img/jacket19.jpg");}
+.jacket .no19 {background-image:url("../kinloch/img/jacket20.jpg");}
+.jacket .no20 {background-image:url("../kinloch/img/jacket21.jpg");}
 
 /* shirtProduct */
-.shirt .no0 {background-image:url("http://jayremind.co.kr/kinloch/img/s1.jpg");  letter-spacing:-1px; }
-.shirt .no1 {background-image:url("http://jayremind.co.kr/kinloch/img/s2.jpg"); }
-.shirt .no2 {background-image:url("http://jayremind.co.kr/kinloch/img/s3.jpg"); }
-.shirt .no3 {background-image:url("http://jayremind.co.kr/kinloch/img/s4.jpg"); }
-.shirt .no4 {background-image:url("http://jayremind.co.kr/kinloch/img/s5.jpg"); letter-spacing:-1px;}
-.shirt .no5 {background-image:url("http://jayremind.co.kr/kinloch/img/s6.jpg"); }
-.shirt .no6 {background-image:url("http://jayremind.co.kr/kinloch/img/s7.jpg"); }
-.shirt .no7 {background-image:url("http://jayremind.co.kr/kinloch/img/s8.jpg"); }
-.shirt .no8 {background-image:url("http://jayremind.co.kr/kinloch/img/s9.jpg"); letter-spacing:-1px;}
-.shirt .no9 {background-image:url("http://jayremind.co.kr/kinloch/img/s10.jpg"); }
-.shirt .no10 {background-image:url("http://jayremind.co.kr/kinloch/img/s11.jpg");}
-.shirt .no11 {background-image:url("http://jayremind.co.kr/kinloch/img/s12.jpg");}
-.shirt .no12 {background-image:url("http://jayremind.co.kr/kinloch/img/s13.jpg"); letter-spacing:-1px;}
-.shirt .no13 {background-image:url("http://jayremind.co.kr/kinloch/img/s14.jpg");}
-.shirt .no14 {background-image:url("http://jayremind.co.kr/kinloch/img/s15.jpg");}
-.shirt .no15 {background-image:url("http://jayremind.co.kr/kinloch/img/s16.jpg");}
-.shirt .no16 {background-image:url("http://jayremind.co.kr/kinloch/img/s17.jpg");}
-.shirt .no17 {background-image:url("http://jayremind.co.kr/kinloch/img/s18.jpg");}
-.shirt .no18 {background-image:url("http://jayremind.co.kr/kinloch/img/s19.jpg");}
-.shirt .no19 {background-image:url("http://jayremind.co.kr/kinloch/img/s20.jpg");}
-.shirt .no20 {background-image:url("http://jayremind.co.kr/kinloch/img/s21.jpg");}
-.shirt .no21 {background-image:url("http://jayremind.co.kr/kinloch/img/s22.jpg"); }
-.shirt .no22 {background-image:url("http://jayremind.co.kr/kinloch/img/s23.jpg"); }
-.shirt .no23 {background-image:url("http://jayremind.co.kr/kinloch/img/s24.jpg"); }
-.shirt .no24 {background-image:url("http://jayremind.co.kr/kinloch/img/s25.jpg"); letter-spacing:-1px;}
-.shirt .no25 {background-image:url("http://jayremind.co.kr/kinloch/img/s26.jpg"); }
-.shirt .no26 {background-image:url("http://jayremind.co.kr/kinloch/img/s27.jpg"); }
-.shirt .no27 {background-image:url("http://jayremind.co.kr/kinloch/img/s28.jpg"); }
-.shirt .no28 {background-image:url("http://jayremind.co.kr/kinloch/img/s29.jpg"); letter-spacing:-1px;}
-.shirt .no29 {background-image:url("http://jayremind.co.kr/kinloch/img/s30.jpg"); }
-.shirt .no30 {background-image:url("http://jayremind.co.kr/kinloch/img/s31.jpg");}
-.shirt .no31 {background-image:url("http://jayremind.co.kr/kinloch/img/s32.jpg");}
-.shirt .no32 {background-image:url("http://jayremind.co.kr/kinloch/img/s33.jpg"); letter-spacing:-1px;}
-.shirt .no33 {background-image:url("http://jayremind.co.kr/kinloch/img/s34.jpg");}
-.shirt .no34 {background-image:url("http://jayremind.co.kr/kinloch/img/s35.jpg");}
-.shirt .no35 {background-image:url("http://jayremind.co.kr/kinloch/img/s36.jpg");}
-.shirt .no36 {background-image:url("http://jayremind.co.kr/kinloch/img/s37.jpg");}
-.shirt .no37 {background-image:url("http://jayremind.co.kr/kinloch/img/s38.jpg");}
-.shirt .no38 {background-image:url("http://jayremind.co.kr/kinloch/img/s39.jpg");}
-.shirt .no39 {background-image:url("http://jayremind.co.kr/kinloch/img/s40.jpg");}
-.shirt .no40 {background-image:url("http://jayremind.co.kr/kinloch/img/s41.jpg");}
-.shirt .no41 {background-image:url("http://jayremind.co.kr/kinloch/img/s42.jpg"); }
-.shirt .no42 {background-image:url("http://jayremind.co.kr/kinloch/img/s43.jpg"); }
-.shirt .no43 {background-image:url("http://jayremind.co.kr/kinloch/img/s44.jpg"); }
-.shirt .no44 {background-image:url("http://jayremind.co.kr/kinloch/img/s45.jpg"); letter-spacing:-1px;}
-.shirt .no45 {background-image:url("http://jayremind.co.kr/kinloch/img/s46.jpg"); }
-.shirt .no46 {background-image:url("http://jayremind.co.kr/kinloch/img/s47.jpg"); }
-.shirt .no47 {background-image:url("http://jayremind.co.kr/kinloch/img/s48.jpg"); }
-.shirt .no48 {background-image:url("http://jayremind.co.kr/kinloch/img/s49.jpg"); letter-spacing:-1px;}
-.shirt .no49 {background-image:url("http://jayremind.co.kr/kinloch/img/s50.jpg"); }
-.shirt .no50 {background-image:url("http://jayremind.co.kr/kinloch/img/s51.jpg"); }
-.shirt .no51 {background-image:url("http://jayremind.co.kr/kinloch/img/s52.jpg"); }
+.shirt .no0 {background-image:url("../kinloch/img/s1.jpg");  letter-spacing:-1px; }
+.shirt .no1 {background-image:url("../kinloch/img/s2.jpg"); }
+.shirt .no2 {background-image:url("../kinloch/img/s3.jpg"); }
+.shirt .no3 {background-image:url("../kinloch/img/s4.jpg"); }
+.shirt .no4 {background-image:url("../kinloch/img/s5.jpg"); letter-spacing:-1px;}
+.shirt .no5 {background-image:url("../kinloch/img/s6.jpg"); }
+.shirt .no6 {background-image:url("../kinloch/img/s7.jpg"); }
+.shirt .no7 {background-image:url("../kinloch/img/s8.jpg"); }
+.shirt .no8 {background-image:url("../kinloch/img/s9.jpg"); letter-spacing:-1px;}
+.shirt .no9 {background-image:url("../kinloch/img/s10.jpg"); }
+.shirt .no10 {background-image:url("../kinloch/img/s11.jpg");}
+.shirt .no11 {background-image:url("../kinloch/img/s12.jpg");}
+.shirt .no12 {background-image:url("../kinloch/img/s13.jpg"); letter-spacing:-1px;}
+.shirt .no13 {background-image:url("../kinloch/img/s14.jpg");}
+.shirt .no14 {background-image:url("../kinloch/img/s15.jpg");}
+.shirt .no15 {background-image:url("../kinloch/img/s16.jpg");}
+.shirt .no16 {background-image:url("../kinloch/img/s17.jpg");}
+.shirt .no17 {background-image:url("../kinloch/img/s18.jpg");}
+.shirt .no18 {background-image:url("../kinloch/img/s19.jpg");}
+.shirt .no19 {background-image:url("../kinloch/img/s20.jpg");}
+.shirt .no20 {background-image:url("../kinloch/img/s21.jpg");}
+.shirt .no21 {background-image:url("../kinloch/img/s22.jpg"); }
+.shirt .no22 {background-image:url("../kinloch/img/s23.jpg"); }
+.shirt .no23 {background-image:url("../kinloch/img/s24.jpg"); }
+.shirt .no24 {background-image:url("../kinloch/img/s25.jpg"); letter-spacing:-1px;}
+.shirt .no25 {background-image:url("../kinloch/img/s26.jpg"); }
+.shirt .no26 {background-image:url("../kinloch/img/s27.jpg"); }
+.shirt .no27 {background-image:url("../kinloch/img/s28.jpg"); }
+.shirt .no28 {background-image:url("../kinloch/img/s29.jpg"); letter-spacing:-1px;}
+.shirt .no29 {background-image:url("../kinloch/img/s30.jpg"); }
+.shirt .no30 {background-image:url("../kinloch/img/s31.jpg");}
+.shirt .no31 {background-image:url("../kinloch/img/s32.jpg");}
+.shirt .no32 {background-image:url("../kinloch/img/s33.jpg"); letter-spacing:-1px;}
+.shirt .no33 {background-image:url("../kinloch/img/s34.jpg");}
+.shirt .no34 {background-image:url("../kinloch/img/s35.jpg");}
+.shirt .no35 {background-image:url("../kinloch/img/s36.jpg");}
+.shirt .no36 {background-image:url("../kinloch/img/s37.jpg");}
+.shirt .no37 {background-image:url("../kinloch/img/s38.jpg");}
+.shirt .no38 {background-image:url("../kinloch/img/s39.jpg");}
+.shirt .no39 {background-image:url("../kinloch/img/s40.jpg");}
+.shirt .no40 {background-image:url("../kinloch/img/s41.jpg");}
+.shirt .no41 {background-image:url("../kinloch/img/s42.jpg"); }
+.shirt .no42 {background-image:url("../kinloch/img/s43.jpg"); }
+.shirt .no43 {background-image:url("../kinloch/img/s44.jpg"); }
+.shirt .no44 {background-image:url("../kinloch/img/s45.jpg"); letter-spacing:-1px;}
+.shirt .no45 {background-image:url("../kinloch/img/s46.jpg"); }
+.shirt .no46 {background-image:url("../kinloch/img/s47.jpg"); }
+.shirt .no47 {background-image:url("../kinloch/img/s48.jpg"); }
+.shirt .no48 {background-image:url("../kinloch/img/s49.jpg"); letter-spacing:-1px;}
+.shirt .no49 {background-image:url("../kinloch/img/s50.jpg"); }
+.shirt .no50 {background-image:url("../kinloch/img/s51.jpg"); }
+.shirt .no51 {background-image:url("../kinloch/img/s52.jpg"); }
 
 /* pant product */
-.pant .no0 {background-image:url("http://jayremind.co.kr/kinloch/img/p1.jpg");  letter-spacing:-1px; }
-.pant .no1 {background-image:url("http://jayremind.co.kr/kinloch/img/p2.jpg"); }
-.pant .no2 {background-image:url("http://jayremind.co.kr/kinloch/img/p3.jpg"); }
-.pant .no3 {background-image:url("http://jayremind.co.kr/kinloch/img/p4.jpg"); }
-.pant .no4 {background-image:url("http://jayremind.co.kr/kinloch/img/p5.jpg"); letter-spacing:-1px;}
-.pant .no5 {background-image:url("http://jayremind.co.kr/kinloch/img/p6.jpg"); }
-.pant .no6 {background-image:url("http://jayremind.co.kr/kinloch/img/p7.jpg"); }
-.pant .no7 {background-image:url("http://jayremind.co.kr/kinloch/img/p8.jpg"); }
-.pant .no8 {background-image:url("http://jayremind.co.kr/kinloch/img/p9.jpg"); letter-spacing:-1px;}
-.pant .no9 {background-image:url("http://jayremind.co.kr/kinloch/img/p10.jpg"); }
-.pant .no10 {background-image:url("http://jayremind.co.kr/kinloch/img/p11.jpg");}
-.pant .no11 {background-image:url("http://jayremind.co.kr/kinloch/img/p12.jpg");}
-.pant .no12 {background-image:url("http://jayremind.co.kr/kinloch/img/p13.jpg"); letter-spacing:-1px;}
-.pant .no13 {background-image:url("http://jayremind.co.kr/kinloch/img/p14.jpg");}
-.pant .no14 {background-image:url("http://jayremind.co.kr/kinloch/img/p15.jpg");}
-.pant .no15 {background-image:url("http://jayremind.co.kr/kinloch/img/p16.jpg");}
-.pant .no16 {background-image:url("http://jayremind.co.kr/kinloch/img/p17.jpg");}
-.pant .no17 {background-image:url("http://jayremind.co.kr/kinloch/img/p18.jpg");}
-.pant .no18 {background-image:url("http://jayremind.co.kr/kinloch/img/p19.jpg");}
-.pant .no19 {background-image:url("http://jayremind.co.kr/kinloch/img/p20.jpg");}
-.pant .no20 {background-image:url("http://jayremind.co.kr/kinloch/img/p21.jpg");}
-.pant .no21 {background-image:url("http://jayremind.co.kr/kinloch/img/p22.jpg"); }
-.pant .no22 {background-image:url("http://jayremind.co.kr/kinloch/img/p23.jpg"); }
-.pant .no23 {background-image:url("http://jayremind.co.kr/kinloch/img/p24.jpg"); }
-.pant .no24 {background-image:url("http://jayremind.co.kr/kinloch/img/p25.jpg"); letter-spacing:-1px;}
-.pant .no25 {background-image:url("http://jayremind.co.kr/kinloch/img/p26.jpg"); }
-.pant .no26 {background-image:url("http://jayremind.co.kr/kinloch/img/p27.jpg"); }
-.pant .no27 {background-image:url("http://jayremind.co.kr/kinloch/img/p28.jpg"); }
+.pant .no0 {background-image:url("../kinloch/img/p1.jpg");  letter-spacing:-1px; }
+.pant .no1 {background-image:url("../kinloch/img/p2.jpg"); }
+.pant .no2 {background-image:url("../kinloch/img/p3.jpg"); }
+.pant .no3 {background-image:url("../kinloch/img/p4.jpg"); }
+.pant .no4 {background-image:url("../kinloch/img/p5.jpg"); letter-spacing:-1px;}
+.pant .no5 {background-image:url("../kinloch/img/p6.jpg"); }
+.pant .no6 {background-image:url("../kinloch/img/p7.jpg"); }
+.pant .no7 {background-image:url("../kinloch/img/p8.jpg"); }
+.pant .no8 {background-image:url("../kinloch/img/p9.jpg"); letter-spacing:-1px;}
+.pant .no9 {background-image:url("../kinloch/img/p10.jpg"); }
+.pant .no10 {background-image:url("../kinloch/img/p11.jpg");}
+.pant .no11 {background-image:url("../kinloch/img/p12.jpg");}
+.pant .no12 {background-image:url("../kinloch/img/p13.jpg"); letter-spacing:-1px;}
+.pant .no13 {background-image:url("../kinloch/img/p14.jpg");}
+.pant .no14 {background-image:url("../kinloch/img/p15.jpg");}
+.pant .no15 {background-image:url("../kinloch/img/p16.jpg");}
+.pant .no16 {background-image:url("../kinloch/img/p17.jpg");}
+.pant .no17 {background-image:url("../kinloch/img/p18.jpg");}
+.pant .no18 {background-image:url("../kinloch/img/p19.jpg");}
+.pant .no19 {background-image:url("../kinloch/img/p20.jpg");}
+.pant .no20 {background-image:url("../kinloch/img/p21.jpg");}
+.pant .no21 {background-image:url("../kinloch/img/p22.jpg"); }
+.pant .no22 {background-image:url("../kinloch/img/p23.jpg"); }
+.pant .no23 {background-image:url("../kinloch/img/p24.jpg"); }
+.pant .no24 {background-image:url("../kinloch/img/p25.jpg"); letter-spacing:-1px;}
+.pant .no25 {background-image:url("../kinloch/img/p26.jpg"); }
+.pant .no26 {background-image:url("../kinloch/img/p27.jpg"); }
+.pant .no27 {background-image:url("../kinloch/img/p28.jpg"); }
 
 /* shoe product */
-.shoe .no0 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes1.jpg");  letter-spacing:-1px; }
-.shoe .no1 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes2.jpg"); }
-.shoe .no2 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes3.jpg"); }
-.shoe .no3 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes4.jpg"); }
-.shoe .no4 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes5.jpg"); letter-spacing:-1px;}
-.shoe .no5 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes6.jpg"); }
-.shoe .no6 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes7.jpg"); }
-.shoe .no7 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes8.jpg"); }
-.shoe .no8 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes9.jpg"); letter-spacing:-1px;}
-.shoe .no9 {background-image:url("http://jayremind.co.kr/kinloch/img/shoes10.jpg"); }
+.shoe .no0 {background-image:url("../kinloch/img/shoes1.jpg");  letter-spacing:-1px; }
+.shoe .no1 {background-image:url("../kinloch/img/shoes2.jpg"); }
+.shoe .no2 {background-image:url("../kinloch/img/shoes3.jpg"); }
+.shoe .no3 {background-image:url("../kinloch/img/shoes4.jpg"); }
+.shoe .no4 {background-image:url("../kinloch/img/shoes5.jpg"); letter-spacing:-1px;}
+.shoe .no5 {background-image:url("../kinloch/img/shoes6.jpg"); }
+.shoe .no6 {background-image:url("../kinloch/img/shoes7.jpg"); }
+.shoe .no7 {background-image:url("../kinloch/img/shoes8.jpg"); }
+.shoe .no8 {background-image:url("../kinloch/img/shoes9.jpg"); letter-spacing:-1px;}
+.shoe .no9 {background-image:url("../kinloch/img/shoes10.jpg"); }
 
 #slide_nav{width:800px; margin:30px auto;}
 .rollover{	width:700px; margin:0 auto;}
