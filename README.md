@@ -1,1 +1,12 @@
-#Welcome to Kinloch page. Please enjoy
+✨ Kinloch Web Renewal 프로젝트
+🧩 프로젝트 개요
+Kinloch 웹사이트 리뉴얼 퍼블리싱 작업물입니다.
+HTML/CSS/JavaScript 기반 정적 페이지로 구성되었으며, 브랜드 아이덴티티를 유지하면서 사용자 경험과 UI를 개선하는 데 중점을 두었습니다.
+
+제작기간: 202X.XX ~ 202X.XX (총 XX일)
+
+담당역할: 퍼블리싱 100% 직접 구현
+
+페이지 수: 메인 1종 + 서브 페이지 10종 이상
+
+기여도: 퍼블리셔 단독 (기획/디자인 시안 기반)
