@@ -14,3 +14,9 @@
 <p>● 반응형 웹 (Media Query)</p>
 <p>● 접근성 고려 마크업 (alt / role / semantic tag)</p>
 <p>● 웹표준 준수 / IE 대응 일부 처리</p>
+
+### 🙋‍♂️ 담당자
+- **이름**: Jay
+- **역할**: 퍼블리셔 / 프론트 퍼블리셔
+- **Email**: your.email@example.com
+- **포트폴리오**: https://jayremind.co.kr (※ 접속 가능 시 기재)
